@@ -13,6 +13,7 @@ Alle Bewertungen starten mit 0 "Cool"-Votes und es gibt nach oben kein Limit. Je
 Für die "useful" (dt. nützlich) und "funny" (dt. witzig) Spalten gilt das gleiche.
 
 # Ausführung
+Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehenden Binder Bagde Link. Folgen Sie den Anweisungen innerhalb des Notebooks, um die Daten zu laden, vorzuverarbeiten, die Modelle zu trainieren und die Ergebnisse zu evaluieren.
 
 # Erwartete Ergebnisse
 
