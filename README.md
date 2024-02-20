@@ -15,7 +15,11 @@ Für die "useful" (dt. nützlich) und "funny" (dt. witzig) Spalten gilt das glei
 # Ausführung
 Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehenden Binder Bagde Link. Folgen Sie den Anweisungen innerhalb des Notebooks, um die Daten zu laden, vorzuverarbeiten, die Modelle zu trainieren und die Ergebnisse zu evaluieren.
 
-# Erwartete Ergebnisse
+# Erwartete Ergebnisse im Teil Explorative Dataanalyse (EDA)
+Wenn der Code erfolgreich ausgeführt ist, werden im Verzeichnis EDA 5 Histogrammen, ein Boxplot und ein Countplot erstellt. 
+- Die 5 Histogrammen zeigt die Textlänge für jede Stern-Kategorie
+- Der Boxplot zeigt die Textlänge für jede Stern-Kategorie
+- Der Countplot zeigt die Anzahl an Erscheinungen jeder Stern-Kategorie
 
 # Binder Badge
 Das Projekt kann in Binder ausgeführt werden: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/Natural-Language-Processing/HEAD)
