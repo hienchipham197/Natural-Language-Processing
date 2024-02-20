@@ -18,3 +18,4 @@ Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehen
 # Erwartete Ergebnisse
 
 # Binder Badge
+Das Projekt kann in Binder ausgeführt werden: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/Natural-Language-Processing/HEAD)
